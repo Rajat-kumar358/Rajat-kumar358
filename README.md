@@ -33,7 +33,7 @@ We help startups and businesses build secure, scalable and high-performing digit
 
 <p align="left">
 
-<!-- Development -->
+<!-- 🌐 Full Stack -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
@@ -44,26 +44,45 @@ We help startups and businesses build secure, scalable and high-performing digit
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
 
-<!-- Tools -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
+<!-- ☁️ Cloud & DevOps -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="40"/>
 
-<!-- Cybersecurity -->
+<!-- 🔐 Cybersecurity / Networking -->
 <img src="https://img.icons8.com/color/48/kali-linux.png" width="40"/>
 <img src="https://img.icons8.com/color/48/wireshark.png" width="40"/>
+<img src="https://img.icons8.com/color/48/nmap.png" width="40"/>
 <img src="https://img.icons8.com/color/48/shield.png" width="40"/>
+<img src="https://img.icons8.com/color/48/network.png" width="40"/>
 
-<!-- Graphic Designing -->
+<!-- 🎨 UI/UX & Design -->
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
+<img src="https://img.icons8.com/color/48/adobe-xd.png" width="40"/>
 <img src="https://img.icons8.com/color/48/adobe-photoshop.png" width="40"/>
 <img src="https://img.icons8.com/color/48/adobe-illustrator.png" width="40"/>
 <img src="https://img.icons8.com/color/48/canva.png" width="40"/>
 
-<!-- Android -->
+<!-- 📱 Android -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="40"/>
 
+<!-- 🧠 VLSI -->
+<img src="https://img.icons8.com/color/48/electronics.png" width="40"/>
+<img src="https://img.icons8.com/color/48/microchip.png" width="40"/>
+
+<!-- 📐 AutoCAD -->
+<img src="https://img.icons8.com/color/48/autodesk.png" width="40"/>
+
+<!-- 🛠️ Tools -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
+
 </p>
+
 
 ---
 
