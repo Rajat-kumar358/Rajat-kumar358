@@ -86,16 +86,6 @@ We help startups and businesses build secure, scalable and high-performing digit
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
-
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=palakbatra26&show_icons=true"/>
-</p>
-
-<p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=palakbatra26"/>
-</p>
-
 ---
 
 <h3 align="center">⭐ Engineering Digital Excellence</h3>
